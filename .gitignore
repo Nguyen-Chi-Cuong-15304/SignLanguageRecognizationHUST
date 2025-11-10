@@ -1,0 +1,7 @@
+# Bỏ qua tất cả các file model .pth
+*.pth
+
+# Bỏ qua các thư mục phổ biến của Python
+__pycache__/
+.ipynb_checkpoints/
+venv/
